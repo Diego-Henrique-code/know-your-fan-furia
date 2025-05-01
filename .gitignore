@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+
+# Streamlit
+uploads/
+dados/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+
+# Arquivos temporários
+*.bak
+*.tmp
+*~
+
+# Arquivos de ambiente
+.env
+
