@@ -1,6 +1,8 @@
 # Know Your Fan - FURIA Challenge 2 🦊🎮
 
-Este é um projeto desenvolvido como parte do processo seletivo para a vaga de Assistente em Engenharia de Software na FURIA. O objetivo é criar uma solução que colete e organize dados sobre fãs de e-sports, integrando validação de documentos e captura de informações de redes sociais.
+Projeto desenvolvido como parte do processo seletivo para a vaga de Assistente em Engenharia de Software na FURIA.  
+O objetivo é criar uma aplicação interativa que colete e organize dados sobre fãs de e-sports, integrando validação de documentos e informações de redes sociais.
+
 ---
 
 ## 📌 Funcionalidades
@@ -15,67 +17,74 @@ Este é um projeto desenvolvido como parte do processo seletivo para a vaga de A
 
 ## 🚀 Como rodar o projeto
 
-### 1. Clone este repositório
-
-```bash
-git clone https://github.com/seu-usuario/know-your-fan.git
-cd know-your-fan
+1. Clone este repositório
+   ```bash
+   git clone https://github.com/seu-usuario/know-your-fan.git
+   cd know-your-fan
 
 2. Crie um ambiente virtual (opcional, mas recomendado)
-python -m venv venv
+   ```bash 
+   python -m venv venv
+
+Ative o ambiente:
 - Windows: venv\Scripts\activate
 - Mac/Linux: source venv/bin/activate
 
 3. Instale as dependências
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. Execute o app
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 ---
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
 know-your-fan/
 ├── dados/
 ├── uploads/
 ├── utils/
 │   └── salvar_dados.py
+├── .gitignore
+├── app.py
 ├── README.md
-└── .gitignore
+└── requirements.txt
 
 ---
 
-📸 Demonstração
-Vídeo de demonstração do projeto.
+## 📸 Demonstração
+O vídeo `furia-tech-challenge2-diego.mp4` mostra o aplicativo em ação.
 
 ---
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
+
 - Python
-
 - Streamlit (Interface web)
-
 - OpenCV (Detecção facial)
-
 - Pillow (Manipulação de imagens)
 
+---
 
-📄 Licença
+## 📄 Licença
+
 Este projeto é de uso exclusivo para fins de avaliação técnica no processo seletivo da FURIA.
-Não é permitido o uso ou reprodução fora desse contexto sem autorização.
+Não é permitido o uso ou reprodução fora desse contexto sem autorização prévia.
 
 ---
 
-⚠️ Observação Técnica
+## ⚠️ Observações Técnicas
+
 - O projeto não armazena dados em nuvem, apenas localmente.
-
 - A validação facial utiliza OpenCV HaarCascade e ocorre localmente.
-
 - Integração com IA avançada (ex: DeepFace) pode ser adicionada futuramente.
-
 - Bibliotecas como face_recognition exigem compiladores extras, por isso foram evitadas por simplicidade e portabilidade.
 
 ---
 
 🚀 Let's go FURIA! 🦊🔥
+
+
 
