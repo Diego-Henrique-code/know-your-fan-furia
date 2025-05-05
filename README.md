@@ -5,6 +5,12 @@ O objetivo é criar uma aplicação interativa que colete e organize dados sobre
 
 ---
 
+## 🔗 Acesse o projeto online
+
+📎 (https://know-your-fan-furia.streamlit.app)
+
+---
+
 ## 📌 Funcionalidades
 
 - 📋 Coleta de dados básicos (nome, CPF, endereço, data de nascimento).
