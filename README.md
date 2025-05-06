@@ -1,7 +1,6 @@
 # Know Your Fan - FURIA Challenge 2 🦊🎮
 
-Projeto desenvolvido como parte do processo seletivo para a vaga de Assistente em Engenharia de Software na FURIA.  
-O objetivo é criar uma aplicação interativa que colete e organize dados sobre fãs de e-sports, integrando validação de documentos e informações de redes sociais.
+Projeto desenvolvido como parte do processo seletivo para a vaga de Assistente em Engenharia de Software na FURIA. O objetivo é criar uma aplicação interativa que colete e organize dados sobre fãs de e-sports, integrando validação de documentos e informações de redes sociais.  
 
 ---
 
